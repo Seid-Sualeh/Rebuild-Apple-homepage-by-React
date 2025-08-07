@@ -1,4 +1,4 @@
-Of course. Here is a README template for your project. You can copy and paste this into your README.md file on GitHub.
+
 
 Apple Homepage Clone 🍏
 This project is a high-fidelity, responsive clone of the official Apple homepage, built with React and Vite. It showcases modern web development techniques, including advanced animations and a clean component-based architecture.
