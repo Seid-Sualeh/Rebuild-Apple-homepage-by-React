@@ -12,7 +12,7 @@ This project was created to practice React fundamentals, component structure, an
 - **Pixel-perfect UI** inspired by the official Apple website
 - **Responsive design** for desktop, tablet, and mobile
 - **Reusable React components**
-- Modern CSS styling with Bootstrap/
+- Modern CSS styling with Bootstrap
 - Organized folder structure for scalability
 
 ---
@@ -55,6 +55,8 @@ A great learning project for mastering React and advanced animation libraries.
 git clone https://github.com/Seid-Sualeh/Rebuild-Apple-homepage-by-React/apple-homepage-clone.git
 cd apple-homepage-clone
 
+
+---
 📚 Learning Goals
 Strengthen React component-based architecture skills
 
