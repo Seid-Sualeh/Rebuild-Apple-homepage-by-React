@@ -22,7 +22,7 @@ This project was created to practice React fundamentals, component structure, an
 | Layer     | Technology |
 |-----------|------------|
 | Frontend  | React (Vite or Create React App) |
-| Styling   | CSS3 / Bootstrap / Tailwind (depending on your choice) |
+| Styling   | CSS3 / Bootstrap / 
 | Icons     | FontAwesome / React Icons |
 | Version Control | Git & GitHub |
 
@@ -48,15 +48,6 @@ A great learning project for mastering React and advanced animation libraries.
 ---
 
 ## 🚀 Getting Started
-
-### 1️⃣ Clone the repository
-
-```bash
-git clone https://github.com/Seid-Sualeh/Rebuild-Apple-homepage-by-React/apple-homepage-clone.git
-cd apple-homepage-clone
-
-
----
 📚 Learning Goals
 Strengthen React component-based architecture skills
 
@@ -66,5 +57,15 @@ Improve code reusability with reusable components
 
 Seid Sualeh Mohammed
 Front-end Developer | Future Full-stack Developer
+
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/Seid-Sualeh/Rebuild-Apple-homepage-by-React/apple-homepage-clone.git
+cd apple-homepage-clone
+
+
+---
+
 
 
