@@ -12,7 +12,7 @@ This project was created to practice React fundamentals, component structure, an
 - **Pixel-perfect UI** inspired by the official Apple website
 - **Responsive design** for desktop, tablet, and mobile
 - **Reusable React components**
-- Modern CSS styling (with optional Bootstrap/Tailwind if used)
+- Modern CSS styling with Bootstrap/
 - Organized folder structure for scalability
 
 ---
